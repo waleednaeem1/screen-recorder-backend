@@ -1,0 +1,36 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Go modules
+/go.mod
+/go.sum
+
+# Test binary
+*.test
+
+# Output of the go coverage tool
+*.out
+
+# Dependency directories
+vendor/
+
+# IDE/editor specific files
+.vscode/
+.idea/
+*.swp
+*~
+*.swo
+*.log
+
+# macOS specific
+.DS_Store
+
+# Configuration files for various tools
+.env
+*.env
